@@ -1,0 +1,76 @@
+
+
+.products{
+
+    width:50%;
+   
+   
+    margin: 15px   auto;
+
+    padding:20px 100px 20px 100px;
+    border:  solid 1px rgb(225, 207, 207);
+}
+h2{
+    margin: 25px 5px;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 600;
+
+    text-decoration: underline aqua;
+}
+
+
+.ss{
+
+
+    float: left;
+    margin: 5px ;
+    padding: 10px 10px;
+
+    border: solid 1px rgb(225, 207, 207);
+}
+
+
+img{
+
+    width: 150px;
+}
+
+.clr{
+
+    clear: left;
+}
+
+button{
+    background-color: aqua;
+    padding: 5px 5px;
+    width: 80%;
+}
+
+#icon{
+  
+    border: solid 2px black;
+    padding: 5px 3px ;
+    margin: auto;
+
+
+    
+}
+
+
+.pp{
+
+    text-decoration: line-through red;
+    font-size: 14px;
+    color: red;
+  
+}
+.price{
+    color: rgb(33, 151, 33);
+    float: left;
+}
+
+p,h3{
+    margin: 3px;
+}
